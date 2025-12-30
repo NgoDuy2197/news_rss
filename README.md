@@ -1,2 +1,9 @@
 # news_rss
-NEWS RSS
+
+news rss
+
+## Getting Started
+
+flutter clean
+flutter pub get
+flutter build apk
